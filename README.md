@@ -14,6 +14,7 @@ This bot allows you to execute trading commands on the Indian stock market using
 ├── symbol_utils.py        # Fetches correct symbol token from exchange
 ├── lot_size.py            # Lot size lookup for F&O
 ├── requirements.txt       # Python dependencies
+├── prompthandler.py       # Decides how to act on parsed prompts
 ├── .env                   # Environment variables (not included in repo)
 ```
 
